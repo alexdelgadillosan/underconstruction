@@ -1,0 +1,14 @@
+@font-face {
+    font-family: '8bit';
+    src: url('./assets/nFont.ttf') format('truetype');
+    /* Puedes agregar más formatos aquí según sea necesario */
+}
+
+*{
+    background-color: #FCCA4C;
+    font-family: '8bit', sans-serif;
+}
+
+img{
+    padding-top: 2rem;
+}
